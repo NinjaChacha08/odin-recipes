@@ -1,0 +1,28 @@
+.title{
+    background-color: rgb(255, 255, 255);
+    color: rgb(255, 0, 0);
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: bold;
+    text-align: left;
+}
+
+img {
+    height: auto;
+    width: 400px;
+}
+
+.dscrp, .ing, .stps {
+    color: rgb(218, 223, 235);
+    background-color: rgb(255, 0, 0);
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: bold;
+}
+
+.dscrp1,.intlist,.stps1 {
+    color: rgb(243, 12, 12);
+    background-color: rgb(255, 255, 255);
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}

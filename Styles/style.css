@@ -1,0 +1,20 @@
+.title {
+    background-color: rgb(255, 255, 255);
+    color: rgb(248, 29, 29);
+    font-size: 70px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: bold;
+    text-align: center;
+} 
+
+#list {
+    text-align: center;
+}
+
+.Crepes, .Waffles, .Pancakes {
+    background-color: rgb(253, 64, 7);
+    color: rgb(63, 56, 56);
+    font-size: 50px;
+}
+
+
